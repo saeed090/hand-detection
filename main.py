@@ -1,3 +1,4 @@
+#tis is hand detection project
 import  cv2
 import  mediapipe as mp
 
